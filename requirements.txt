@@ -1,3 +1,9 @@
 altair
 pandas
 streamlit
+dash
+keras
+numpy
+plotly
+sklearn
+pandas_datareader
